@@ -1,0 +1,16 @@
+Deck_test00.cpp:
+	Base test given.
+
+
+Deck_test01.cpp:
+	shuffle(8) - Shuffles 8. Tests with cut less than half the deck. 
+	Also tests to check replace after one split runs out
+
+
+Deck_test02.cpp:
+	cards_remaining() - Deals 17 cards. Should be 35 remaining.
+
+
+Deck_test03.cpp:
+	shuffle() - runs shuffle multiple times to make sure it's correct when looped.
+

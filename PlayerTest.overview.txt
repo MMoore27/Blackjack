@@ -1,0 +1,13 @@
+Player_test00.cpp:
+	Testing bet() for simple player
+
+Player_test01.cpp:
+	Testing draw() with natural 21
+
+Player_test02.cpp:
+	Testing draw() soft and hand value equal to 18
+
+
+Player_test03.cpp:
+	Testing bet() count less than 2
+
